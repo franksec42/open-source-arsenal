@@ -25,6 +25,7 @@ Tools for discovery, domain search, and external attack surface mapping.
 | Tool Name | Description | Link |
 | :--- | :--- | :--- |
 | **Amass** | In-depth attack surface mapping and asset discovery. | [Link](https://github.com/OWASP/Amass) |
+| **Darkmoon** | Autonomous pentest platform, 50 agents over MCP, reproducible proof of exploitation, self hosted | [Repo](https://github.com/ASCIT31/Dark-Moon) |
 | **Netcraft** | Site report and background information on domains. | [Link](https://sitereport.netcraft.com/) |
 | **DNSCan** | DNS scanner for network infrastructure. | [Link](https://github.com/rbsec/dnscan) |
 | **Shodan** | Search engine for Internet-connected devices. | [Link](https://www.shodan.io/) |
