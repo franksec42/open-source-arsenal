@@ -125,6 +125,7 @@ Aggregation, tracking, and management of vulnerabilities and threat data.
 | **Vuls** | Agentless vulnerability scanner for Linux/FreeBSD. | [Link](https://github.com/future-architect/vuls) |
 | **ArcherySec** | Vulnerability assessment and management. | [Link](https://github.com/archerysec/archerysec/) |
 | **Seccubus** | Automated vulnerability scanning and reporting. | [Link](https://github.com/schubergphilis/Seccubus) |
+| **ICHI — Internet Cyber Health Index** | Free daily internet cyber-health barometer aggregating security news, telemetry, and advisories; source-transparent. | [Link](https://ichi.global) |
 
 ---
 
